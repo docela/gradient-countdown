@@ -1,4 +1,4 @@
-var timeUp = new Date("July 30, 2019 23:00:00").getTime();
+var timeUp = new Date("December 30, 2019 23:00:00").getTime();
 
 var x = setInterval(function () {
     var now = new Date().getTime();
